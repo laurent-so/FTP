@@ -1,0 +1,2 @@
+lau,22,admin
+rent,06,user
